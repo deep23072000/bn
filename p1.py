@@ -1,5 +1,6 @@
 print("hello world")
 print("hello world")
+<<<<<<< HEAD
 print("hello world")
 print("hello world")
 print("hello world")
@@ -21,4 +22,6 @@ print("hello world")
 print("hello world")
 print("hello world")
 print("hello world")
+=======
+>>>>>>> 7c4cbe3604931019bbcd99dbf78dde389f24fd23
 
